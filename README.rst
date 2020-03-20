@@ -4,6 +4,8 @@ git-secrets
 
 -------------------------------------------------------------------------------------------
 Prevents you from committing passwords and other sensitive information to a git repository.
+This is a fork of a public repository. Internal-only or sensitive information are strictly
+prohibited from being entered into any issues, pull requests, actions, etc. 
 -------------------------------------------------------------------------------------------
 
 .. contents:: :depth: 2
